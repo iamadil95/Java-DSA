@@ -2,11 +2,8 @@
 
 #  Java DSA - Data Structures & Algorithms
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100">
 
-[![Java](https://img.shields.io/badge/Java-ED8B00? style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4? style=for-the-badge)](https://github.com/iamadil95/Java-DSA)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/iamadil95/Java-DSA/pulls)
 
 **A comprehensive collection of Data Structures and Algorithms implementations in Java**
 
@@ -241,7 +238,7 @@ This repository is built with the belief that:
 <a href="https://www.linkedin.com/in/md-adil-imam/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:mdadilimam03@gmail. com">
+<a href="mailto:mdadilimam03@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335? style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://x.com/iamadil95">
@@ -272,15 +269,7 @@ It helps others discover this resource and motivates me to keep adding more cont
 
 <br>
 
-### 📈 Repository Stats
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamadil95/Java-DSA?style=flat-square&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/iamadil95/Java-DSA? style=flat-square&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/iamadil95/Java-DSA?style=flat-square&color=orange)
-
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b> Keep pushing forward!  </em>
+<b>Happy Coding!</b> Keep pushing forward!  </em>
 
 <br>
 
