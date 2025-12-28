@@ -1,8 +1,12 @@
 <div align="center">
 
-# 🚀 Java DSA - Data Structures & Algorithms
+#  Java DSA - Data Structures & Algorithms
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100">
+
+[![Java](https://img.shields.io/badge/Java-ED8B00? style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4? style=for-the-badge)](https://github.com/iamadil95/Java-DSA)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/iamadil95/Java-DSA/pulls)
 
 **A comprehensive collection of Data Structures and Algorithms implementations in Java**
 
@@ -27,9 +31,9 @@
 
 ---
 
-## 🎯 About
+##  About
 
-This repository contains a **comprehensive collection** of Data Structures and Algorithms implemented in Java. It serves as a valuable resource for: 
+This repository contains a **comprehensive collection** of Data Structures and Algorithms implemented in Java. It serves as a valuable resource for:
 
 - 💼 **Interview Preparation** - Master common DSA questions asked in technical interviews
 - 📚 **Learning & Practice** - Build strong foundations in computer science fundamentals
@@ -40,22 +44,54 @@ This repository contains a **comprehensive collection** of Data Structures and A
 
 ## 📚 Topics Covered
 
-<div align="center">
+### 📊 Data Structures
+```
+🔹 Arrays                    🔹 2D Arrays                 🔹 ArrayList
+🔹 Linked Lists              🔹 Stacks                    🔹 Queues
+🔹 Binary Trees              🔹 Binary Search Trees       🔹 Heaps
+🔹 Hash Tables               🔹 Tries                     🔹 Graphs
+```
 
-| Data Structures | Algorithms | Advanced Topics |
-|: ---------------:|:----------:|:---------------:|
-| Arrays | Sorting | Dynamic Programming |
-| 2D Arrays | Searching | Greedy Algorithms |
-| Linked Lists | Patterns | Graph Algorithms |
-| Stacks | Hashing | Tree Traversals |
-| Queues | | Binary Search Trees |
-| ArrayList | | |
-| Binary Trees | | |
-| Heaps | | |
-| Tries | | |
-| Graphs | | |
+### 🧮 Algorithms
+```
+🔸 Sorting Algorithms        🔸 Searching Algorithms      🔸 Pattern Problems
+🔸 Dynamic Programming       🔸 Greedy Algorithms         🔸 Graph Algorithms
+🔸 Tree Traversals           🔸 Hashing Techniques        
+```
 
-</div>
+### 🎓 Topics Breakdown
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🟢 Fundamentals</h4>
+      <ul align="left">
+        <li>Arrays & 2D Arrays</li>
+        <li>ArrayList</li>
+        <li>Sorting & Searching</li>
+        <li>Pattern Problems</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h4>🟡 Intermediate</h4>
+      <ul align="left">
+        <li>Linked Lists</li>
+        <li>Stacks & Queues</li>
+        <li>Binary Trees</li>
+        <li>Hashing</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h4>🔴 Advanced</h4>
+      <ul align="left">
+        <li>Dynamic Programming</li>
+        <li>Graphs</li>
+        <li>Greedy Algorithms</li>
+        <li>Heaps & Tries</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -107,7 +143,7 @@ Java-DSA/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/iamadil95/Java-DSA.git
+   git clone https://github.com/iamadil95/Java-DSA. git
    ```
 
 2. **Navigate to the project directory**
@@ -121,7 +157,7 @@ Java-DSA/
 
 4. **Run any Java file**
    ```bash
-   javac <FileName>.java
+   javac <FileName>. java
    java <FileName>
    ```
 
@@ -183,15 +219,15 @@ Contributions are always welcome! If you'd like to add new implementations or im
 
 ---
 
-##  Why This Repository?
+## 🌟 Why This Repository?
 
 > **"The only way to learn a new programming language or concept is to write programs in it."** - Dennis Ritchie
 
 This repository is built with the belief that:
--  **Practical implementation** beats theoretical knowledge
--  **Consistent practice** leads to mastery
--  **Sharing knowledge** helps everyone grow
--  **Problem-solving skills** are built through repetition
+- 📖 **Practical implementation** beats theoretical knowledge
+- 🎯 **Consistent practice** leads to mastery
+- 🤝 **Sharing knowledge** helps everyone grow
+- 💪 **Problem-solving skills** are built through repetition
 
 ---
 
@@ -199,11 +235,22 @@ This repository is built with the belief that:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamadil95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-adil-imam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdadilimam03@gmail.com)
+<a href="https://github.com/iamadil95">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/md-adil-imam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mdadilimam03@gmail. com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335? style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://x.com/iamadil95">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
-**Let's connect and grow together!**
+<br><br>
+
+** Let's connect and grow together!**
 
 </div>
 
@@ -215,21 +262,28 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## ⭐ Show Your Support
-
-If you find this repository helpful, please consider giving it a ⭐ **star**! It helps others discover this resource and motivates me to keep adding more content.
-
----
+##  Show Your Support
 
 <div align="center">
 
+If you find this repository helpful, please consider giving it a ⭐ **star**!
+
+It helps others discover this resource and motivates me to keep adding more content. 
+
+<br>
+
 ### 📈 Repository Stats
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamadil95/Java-DSA? style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/iamadil95/Java-DSA?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamadil95/Java-DSA?style=flat-square&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/iamadil95/Java-DSA? style=flat-square&color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/iamadil95/Java-DSA?style=flat-square&color=orange)
 
-**Happy Coding!  **
+<br>
 
-*Made with ❤️*
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b> Keep pushing forward!  </em>
+
+<br>
+
+**Made with ❤️ and lots of effort by [Md Adil Imam](https://github.com/iamadil95)**
 
 </div>
