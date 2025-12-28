@@ -4,8 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100">
 
+<br>
 
-**A comprehensive collection of Data Structures and Algorithms implementations in Java**
+### 📌 Built for My Placement Journey  
+###  Falling in Love with Java
+
+**A structured and disciplined collection of Data Structures & Algorithms implemented in Java —  
+Created with the goal of cracking coding interviews and mastering core problem-solving skills.**
+
 
 [Explore the Code](#-repository-structure) • [Getting Started](#-getting-started) • [Topics Covered](#-topics-covered) • [Connect](#-connect-with-me)
 
@@ -140,7 +146,7 @@ Java-DSA/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/iamadil95/Java-DSA. git
+   git clone https://github.com/iamadil95/Java-DSA.git
    ```
 
 2. **Navigate to the project directory**
@@ -154,7 +160,7 @@ Java-DSA/
 
 4. **Run any Java file**
    ```bash
-   javac <FileName>. java
+   javac <FileName>.java
    java <FileName>
    ```
 
@@ -228,51 +234,56 @@ This repository is built with the belief that:
 
 ---
 
+---
+
 ## 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/iamadil95">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-adil-imam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdadilimam03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/iamadil95">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-<a href="https://github.com/iamadil95">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/md-adil-imam/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:mdadilimam03@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335? style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://x.com/iamadil95">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-<br><br>
-
-** Let's connect and grow together!**
-
-</div>
+<p align="center">
+  <b>Let’s connect, collaborate, and grow together 🚀</b>
+</p>
 
 ---
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is **open source** and distributed under the **MIT License**.  
+Feel free to use, modify, and share it.
 
 ---
 
 ##  Show Your Support
 
-<div align="center">
+<p align="center">
+  If this repository helped you, consider giving it a ⭐
+</p>
 
-If you find this repository helpful, please consider giving it a ⭐ **star**!
+<p align="center">
+  🌍 Helps others discover this project  
+  <br>
+  💡 Keeps me motivated to improve and add more solutions to problems  
+  <br>
+  🤝 Strengthens the open-source community
+</p>
 
-It helps others discover this resource and motivates me to keep adding more content. 
+<p align="center">
+  <b>Happy Coding!  Keep pushing forward and never stop learning.</b>
+</p>
 
-<br>
-
-<b>Happy Coding!</b> Keep pushing forward!  </em>
-
-<br>
-
-**Made with ❤️ and lots of effort by [Md Adil Imam](https://github.com/iamadil95)**
-
-</div>
+<p align="center">
+  Made with ❤️ and a lot of dedication by <b>Md Adil Imam</b>
+</p>
